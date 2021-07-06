@@ -1,0 +1,7 @@
+print("hello world")
+print("Naravit Lertratkosum")
+print("Pond")
+print(21)
+print("London US")
+print("I Like puthon programing")
+print(12)
